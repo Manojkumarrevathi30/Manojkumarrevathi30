@@ -11,7 +11,7 @@ const CONFIG = {
   // Optional: add a photo at assets/images/profile.jpg and set: photo: 'assets/images/profile.jpg'
   photo: '',
   // CV file: place your PDF at this path (relative to index.html).
-  cv: 'assets/cv/Manojkumar-Raman-CV.pdf',
+  cv: 'assets/images/Manojkumar_Raman_Data_Engineer.pdf',
   linkedin: 'https://www.linkedin.com/in/manojkumarraman/',
   github: 'https://github.com/manojkumarrevathi30',
 
