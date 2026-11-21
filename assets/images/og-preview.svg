@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".45" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <radialGradient id="o1" cx=".1" cy=".05" r=".6"><stop offset="0" stop-color="#1d4ed8" stop-opacity=".55"/><stop offset="1" stop-color="#1d4ed8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2" cx=".95" cy="1" r=".6"><stop offset="0" stop-color="#7e22ce" stop-opacity=".55"/><stop offset="1" stop-color="#7e22ce" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070b1f"/>
+  <rect width="1200" height="630" fill="url(#o1)"/>
+  <rect width="1200" height="630" fill="url(#o2)"/>
+  <g stroke="#8296ff" stroke-opacity=".06">
+    <path d="M0 105H1200M0 210H1200M0 315H1200M0 420H1200M0 525H1200M100 0V630M200 0V630M300 0V630M400 0V630M500 0V630M600 0V630M700 0V630M800 0V630M900 0V630M1000 0V630M1100 0V630"/>
+  </g>
+  <rect x="80" y="80" width="64" height="64" rx="16" fill="url(#g)"/>
+  <text x="112" y="122" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="26" fill="#fff" text-anchor="middle">MR</text>
+  <text x="80" y="290" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="84" fill="#ffffff">Manojkumar Raman</text>
+  <text x="80" y="360" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="44" fill="url(#g)">Data Engineer</text>
+  <text x="80" y="430" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#c3cbec">Engineering Reliable Data Pipelines. Transforming Data Into Business Value.</text>
+  <rect x="80" y="490" width="1040" height="2" fill="url(#g)" opacity=".5"/>
+  <text x="80" y="550" font-family="Courier New, monospace" font-size="24" fill="#8f9bc7">Snowflake · dbt · Matillion · Control-M · Databricks · Azure · Chennai</text>
+</svg>
